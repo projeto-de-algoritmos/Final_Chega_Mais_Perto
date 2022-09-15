@@ -28,7 +28,7 @@ O jogo funciona de forma bem simples, você começa como a bolinha azul e precis
 Sistema que utiliza APT:
 ##### Abra o terminal
 - Baixe o projeto e entre no diretório
-> $ git clone https://github.com/projeto-de-algoritmos/Final_Chega_Mais_Perto && cd DC_Chega_Mais_Perto
+> $ git clone https://github.com/projeto-de-algoritmos/Final_Chega_Mais_Perto && cd Final_Chega_Mais_Perto
 - Instale os requisitos
 > $ sudo apt-get install libsfml-dev && sudo apt-get install build-essential
 - Entre na pasta build
