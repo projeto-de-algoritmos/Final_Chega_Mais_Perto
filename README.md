@@ -46,7 +46,7 @@ Após rodar o projeto, é importante saber que todo o jogo é jogado usando as s
 Algoritmos utilizados: Par de pontos mais próximo e Dijkstra.
 
 ## Apresentação
-Você pode assistir à nossa apresentação [clicando aqui](https://github.com/projeto-de-algoritmos/DC_Chega_Perto/blob/main/apresentacao_chega_perto_dupla24.mp4).
+Você pode assistir à nossa apresentação [clicando aqui](https://github.com/projeto-de-algoritmos/Final_Chega_Mais_Perto/blob/main/apresentacao_final.mp4).
 
 
 
