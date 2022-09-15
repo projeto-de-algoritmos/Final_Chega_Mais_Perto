@@ -7,6 +7,7 @@
 #include <time.h>
 #include "../Headers/menor.h"
 #include <random>
+#include "Grafo.h"
 
 class Jogador : public Menor{
     private:
